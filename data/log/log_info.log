@@ -1,0 +1,11 @@
+24-11-08.22:33:48.278 [main            ] INFO  Application            - Starting Application using Java 1.8.0_321 on DESKTOP-ETQJC0C with PID 60984 (C:\study\big-market\big-market-app\target\classes started by Aurora in C:\study\big-market)
+24-11-08.22:33:48.280 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-11-08.22:33:49.759 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+24-11-08.22:33:49.770 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+24-11-08.22:33:49.770 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-11-08.22:33:49.770 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-11-08.22:33:49.971 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-11-08.22:33:49.971 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1632 ms
+24-11-08.22:33:50.585 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+24-11-08.22:33:50.609 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+24-11-08.22:33:50.617 [main            ] INFO  Application            - Started Application in 2.835 seconds (JVM running for 5.148)
